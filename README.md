@@ -7,3 +7,5 @@
 * Mobile friendly
 * Basic password complexity customization
 
+## Demo Page
+https://holdon.yellowtech.ch/pw.html
