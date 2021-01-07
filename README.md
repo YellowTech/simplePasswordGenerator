@@ -7,5 +7,5 @@
 * Mobile friendly
 * Basic password complexity customization
 
-## Demo Page
-https://holdon.yellowtech.ch/pw.html
+## Demo Page on Github.io
+https://htmlpreview.github.io/?https://github.com/YellowTech/simplePasswordGenerator/blob/master/pw.html
